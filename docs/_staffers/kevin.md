@@ -1,9 +1,9 @@
 ---
-name: Marina Barsky
-role: Instructor
-email: mbarsky@oberlin.edu
+name: Kevin
+role: Teaching Assistant
+email: me@oberlin.edu
 website: https://www.cs.oberlin.edu/~mbarsky/
-photo: marina.jpg
+photo: kevin.jpg
 ---
 
 [Schedule an appointment](#){: .btn .btn-outline }
